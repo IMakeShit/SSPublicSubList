@@ -1,5 +1,2 @@
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt
 https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt
-^ у этого человека на гитхаб есть отсортированные версии подписки по категориям
-
-
