@@ -1,23 +1,8 @@
 Сайты и гитхаб репозитории 
-Конечно сайты нагуглить можно но я их добавлю для полноты картины
+Конечно сайты нагуглить можно но я их добавлю 
 
 
 freesocks.org - free shadowsocks servers
 free-proxy-list.net
 proxyscrape.com/free-proxy-list 
 https://github.com/proxifly/free-proxy-list
-https://proxycompass.com/free-proxy/
-https://netnut.io/free-proxy-list/
-https://github.com/clarketm/proxy-list
-https://hide.mn/en/proxy-list/
-https://www.proxyshare.com/free-proxy/
-https://www.proxynova.com/proxy-server-list/
-https://www.freeproxychecker.com/proxy-lists/
-https://github.com/jetkai/proxy-list
-https://openproxylist.com/  - и впн тоже есть
-http://free-proxy.cz/en/
-
-https://proxifly.dev/
-https://www.croxyproxy.com/
-
-http://outproxy.purokishi.i2p/about_ru.html  - прокси сервер в i2p
