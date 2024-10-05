@@ -1,8 +1,1 @@
-Сайты и гитхаб репозитории 
-Конечно сайты нагуглить можно но я их добавлю 
-
-
 freesocks.org - free shadowsocks servers
-free-proxy-list.net
-proxyscrape.com/free-proxy-list 
-https://github.com/proxifly/free-proxy-list
