@@ -11,9 +11,11 @@
 1.Имя: любое
 2.Тип группы: подписка
 3.Ссылка на подписку: https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/shadowsocks_servers.txt
-4.Дедупликация(опционально) включено
 
-
+Также вам нужно создать такие же подписки но тдругими именами и ссылками:
+https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/trojan_servers.txt
+https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/vmess_servers.txt
+https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/vless_servers.txt
 3. Сохраняем и обновляем
 
 В файле amnesia_vpn.txt - конфигурации для Amnesia VPN
