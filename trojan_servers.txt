@@ -1,5 +1,6 @@
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443/?type=ws&host=jobscareerfortoday.com&path=6b777a91&security=tls&sni=jobscareerfortoday.com#%F0%9F%91%89%F0%9F%86%94%20%40FORWARDV2RAY
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443/?type=tcp&security=tls&sni=series-v1.samanehha.co&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://4804f14b-c1f8-452d-a6ec-eff1490aeac9@hdfy6d6.jahangirkh.eu.org:443?security=tls&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=grpc&serviceName=Mf0ozB1t4KFzoZoavn2kmJ#%F0%9F%87%AB%F0%9F%87%B7FR%20%7C%20@V2ray_Collector
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443/?type=ws&host=jobscareertoday.com&path=%2F6b777a91&security=tls&sni=jobscareertoday.com#%40Hope_Net-join-us-on-Telegram
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443/?type=ws&host=jobscareerforlawyers.com&path=6b777a91&security=tls&sni=jobscareerforlawyers.com#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443/?type=ws&host=jobscareerforlawyers.com&path=6b777a91&security=tls&sni=jobscareerforlawyers.com&allowInsecure=1#%F0%9F%90%94%20%E8%83%8C%E5%B8%A6%E8%A3%A4-58
