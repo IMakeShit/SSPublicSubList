@@ -88,6 +88,7 @@ trojan://telegram-id-directvpn@3.13.138.189:22222/?type=tcp&security=tls&sni=tro
 trojan://telegram-id-directvpn@3.13.138.189:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#Our%20Channel%20%3A%20%40DirectVPN
 trojan://telegram-id-directvpn@3.134.138.222:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#Our
 trojan://telegram-id-directvpn@3.134.138.222:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#Our
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&path=/6b777a91&host=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20@V2ray_Collector
 trojan://telegram-id-directvpn@3.141.83.167:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#Our
 trojan://telegram-id-directvpn@3.141.83.167:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#Our
 trojan://telegram-id-directvpn@3.21.216.163:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#Our
