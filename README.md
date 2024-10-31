@@ -19,8 +19,7 @@ https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/vles
 
 https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/vless_tls_servers.txt
 https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/vless_reality_servers.txt
-(Последние 2 подписки это vless сервера содержащие сервера с дополнитльной защитой от блокировки
-но если у ва работают обычный vless прошу использовать его)
+(Последние 2 подписки это vless сервера содержащие сервера с дополнитльной защитой от блокировки)
 3. Сохраняем и обновляем
 
 В файле amnesia_vpn.txt - конфигурации для Amnesia VPN
