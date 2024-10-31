@@ -6,8 +6,8 @@ vless://8ce8b290-c905-550a-890e-5be5009ac4a3@74269.biu996.live:80?path=%2Fvless&
 vless://eb68a74a-f1b2-576f-97db-d851cb651194@04bb7.biu996.live:80?path=%2Fvless&security=none&encryption=none&host=04bb7.biu996.live&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.58:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
-
+vless://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&security=none&encryption=none&type=ws#⚜️Telegram: @IP_CF
+vless://0d891268-002f-40be-b583-4290834a3255@194.87.39.142:56246?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.178:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Sanjeshp.Ir&fp=randomized&type=ws&sni=Sanjeshp.Ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
