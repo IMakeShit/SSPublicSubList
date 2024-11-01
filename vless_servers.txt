@@ -4,7 +4,7 @@ vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.66.43.162:2052?encryption=none&
 vless://66726565-7670-4e2e-b573-2d686a713172@creativecommons.org:80?path=%2Ffreevpn%2Ffreevpn.us-hjq1rg1%2FHK&security=none&encryption=none&host=hkc-s88.v2sv.xyz&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://8ce8b290-c905-550a-890e-5be5009ac4a3@74269.biu996.live:80?path=%2Fvless&security=none&encryption=none&host=74269.biu996.live&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://eb68a74a-f1b2-576f-97db-d851cb651194@04bb7.biu996.live:80?path=%2Fvless&security=none&encryption=none&host=04bb7.biu996.live&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
+vless://79f2561f-85c4-4667-e2d6-28cb52907681@43.216.3.121:24788?security=&allowInsecure=1&fp=chrome&type=tcp&encryption=none#%F0%9F%87%B2%F0%9F%87%BEMY%20%7C%20@V2ray_Collector
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.58:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&security=none&encryption=none&type=ws#⚜️Telegram: @IP_CF
 vless://0d891268-002f-40be-b583-4290834a3255@194.87.39.142:56246?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
