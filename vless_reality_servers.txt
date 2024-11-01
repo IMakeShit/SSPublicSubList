@@ -5,8 +5,11 @@ vless://647574b0-25d5-4603-86f8-3494a25bb864@45.159.249.42:42259?type=tcp&securi
 vless://db60c80f-19c5-4b69-81dd-ca6e6800ef7d@103.35.190.211:56393?type=tcp&security=reality&pbk=eRHuhr1ukc2t0qMS2dWeKcPEa2vqBx4GkIDW-0dTxl0&fp=chrome&sni=google.com&sid=ebe52355&spx=%2F&flow=xtls-rprx-vision#best-vpn-pro-usa-tg-24-10
 vless://d23ef213-eafd-4c7f-8a83-e02b82e7b5c5@103.35.190.211:56393?type=tcp&security=reality&pbk=eRHuhr1ukc2t0qMS2dWeKcPEa2vqBx4GkIDW-0dTxl0&fp=chrome&sni=google.com&sid=ebe52355&spx=%2F&flow=xtls-rprx-vision#best-vpn-pro-usa-tg-28-10
 vless://cd2394bc-e7bb-4557-b751-72736f8978b0@77.91.123.173:42947?type=tcp&security=reality&pbk=BFhhpqMa1Mak0lRyWf7UdSVxPF52kB7WZsMWbCZD2RY&fp=chrome&sni=google.com&sid=bc7f9556&spx=%2F&flow=xtls-rprx-vision#best-vpn-pro-ned-tg-29-10
-
-
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?encryption=none&security=reality&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&spx=%2F&type=grpc&serviceName=&mode=gun#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%AE%F0%9F%87%B9IT+%F0%9F%94%BA%F0%9F%87%AE%F0%9F%87%B9IT+%E2%98%91ADSL
+vless://5f8647ec-b45e-4614-a7bf-faf63b9ccdef@77.91.123.173:42947?type=tcp&security=reality&pbk=BFhhpqMa1Mak0lRyWf7UdSVxPF52kB7WZsMWbCZD2RY&fp=chrome&sni=google.com&sid=bc7f9556&spx=%2F&flow=xtls-rprx-vision#best-vpn-pro-ned-tg-02-11
+vless://ed8a0380-bfbd-4f03-a3e2-49662c77bf45@146.19.233.101:25810?type=tcp&security=reality&pbk=Lzgk8JTquhjXqH69XIQqKsrfdGIIP2XqMCSWWswjElE&fp=chrome&sni=google.com&sid=5f2920c3&spx=%2F&flow=xtls-rprx-vision#best-vpn-pro-ger-tg-03-11
+vless://ff1ee9d3-8878-4c47-8a9f-2e9d0685e770@45.159.249.42:42259?type=tcp&security=reality&pbk=U_xgj8zdYzuGVJfJ7wAoSh7HGt4sBrUS08ttF0i6ABs&fp=chrome&sni=google.com&sid=7f1dd9a3&spx=%2F&flow=xtls-rprx-vision#best-vpn-pro-fin-tg-04-11
+vless://24238c63-a196-4a60-a1f3-1fbed354bc41@103.35.190.211:56393?type=tcp&security=reality&pbk=eRHuhr1ukc2t0qMS2dWeKcPEa2vqBx4GkIDW-0dTxl0&fp=chrome&sni=google.com&sid=ebe52355&spx=%2F&flow=xtls-rprx-vision#best-vpn-pro-usa-tg-05-11
 
 
 
