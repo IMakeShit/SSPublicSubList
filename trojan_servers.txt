@@ -4,6 +4,7 @@ trojan://4804f14b-c1f8-452d-a6ec-eff1490aeac9@hdfy6d6.jahangirkh.eu.org:443?secu
 trojan://a3682488-e7d1-470a-ac91-2cc362b135cd@d7c5491093bd52435e48b9cab4617ba4.v1.cac.node-is.green:44110?security=tls&sni=hk12.speedtest.net&allowInsecure=true#@SiNABiGO%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 trojan://3648425794742788096@square-husky.sunbeam921.monster:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL%20%7C%20@V2ray_Collector
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&path=/6b777a91&host=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20@V2ray_Collector
+trojan://ee49f969-8201-4b9e-8db3-40f660588264@12372.96110.one:23872?security=tls&sni=www.icloud.com&allowInsecure=1&type=tcp#%F0%9F%87%A8%F0%9F%87%B3CN%20%7C%20@V2ray_Collector
 
 
 
