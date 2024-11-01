@@ -8,7 +8,7 @@ vless://79f2561f-85c4-4667-e2d6-28cb52907681@43.216.3.121:24788?security=&allowI
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.58:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&security=none&encryption=none&type=ws#⚜️Telegram: @IP_CF
 vless://0d891268-002f-40be-b583-4290834a3255@194.87.39.142:56246?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
-
+vless://298df634-8e55-452e-8adf-72383f9cada2@45.83.143.251:16303?security=&type=tcp&encryption=none#%F0%9F%87%A6%F0%9F%87%B2AM%20%7C%20@V2ray_Collector
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.178:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Sanjeshp.Ir&fp=randomized&type=ws&sni=Sanjeshp.Ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://e4ebd5b7-b6db-4aee-80de-aa383819215c@www.speedtest.net:2086?type=httpupgrade&security=none&host=america1.httpupgrademowji.bloG.&path=%2FApaRat.com%3Fed%3D2048#@SiNABiGO%F0%9F%91%88%F0%9F%8F%BB%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF+%D8%A8%DB%8C%D8%A7+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
