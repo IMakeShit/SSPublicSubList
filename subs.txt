@@ -16,6 +16,10 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp#(@
 
 https://raw.githubusercontent.com/freedomnet25500/cfsub/refs/heads/main/freesub #
 
+https://github.com/barry-far/V2ray-Configs
+
+https://raw.githubusercontent.com/f246369/-v2ray-configs/refs/heads/main/All_Configs_Sub.txt
+
 
 
 
