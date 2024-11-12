@@ -26,4 +26,7 @@ https://raw.githubusercontent.com/IMakeShit/SSPublicSubList/refs/heads/main/vles
 
 В файле subs.txt лежат подписки от других людей 
 
+hysteria2.txt - для протокола hysteria v2
+
+zivpn.txt - ключи для этого впн сервиса
 
