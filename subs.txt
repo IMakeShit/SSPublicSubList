@@ -1,27 +1,15 @@
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt
-
 https://raw.githubusercontent.com/bamdad23/JavidnamanIran/main/latest
-
 https://raw.githubusercontent.com/bamdad23/JavidnamanIran/main/JNIR
-
 https://raw.githubusercontent.com/sinabigo/Sing-box/main/sub_@sinabigo
-
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
-
 https://raw.githubusercontent.com/sinabigo/Hiddify/main/vip@sinabigo
-
 https://raw.githubusercontent.com/ircfspace/warpsub/main/export/warp
-
 https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp#(@ShadowProxy66)%F0%9F%94%A5%20WARP%20%F0%9F%94%A5
-
 https://raw.githubusercontent.com/freedomnet25500/cfsub/refs/heads/main/freesub #
-
 https://github.com/barry-far/V2ray-Configs
-
 https://raw.githubusercontent.com/f246369/-v2ray-configs/refs/heads/main/All_Configs_Sub.txt
-
-
-
+https://github.com/aiboboxx/v2rayfree/blob/main/README.md
 
 
 
