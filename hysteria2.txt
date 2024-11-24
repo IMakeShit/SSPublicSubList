@@ -1,4 +1,6 @@
-
+ hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#%40VPN_KODLARY
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#%40TM_KODLARY
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#%40web_hyzmatlary
 hy2://18a720415df07a92@[2400:8a20:113:36::]:64321/?insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0h2%40oneclickvpnkeys
 hy2://1947e8a2-f868-4ef5-8024-21c9dfa27450@ru-01.cloudlion.me:8005#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20@V2ray_Collector
 hy2://1947e8a2-f868-4ef5-8024-21c9dfa27450@sg-01.cloudlion.me:8005#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
