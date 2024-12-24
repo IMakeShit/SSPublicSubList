@@ -10,3 +10,12 @@ hy2://freeasfree.f215b295e3c0bf6a@65.109.219.247:7443/?insecure=1&sni=zara.com&o
 hy2://freeasfree.f215b295e3c0bf6a@twenty.dyndns.berlin:7443/?insecure=1&sni=zara.com&obfs=salamander&obfs-password=f215b295e3c0bf6a#%F0%9F%87%A9%F0%9F%87%AAh1%40oneclickvpnkeys
 hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379/?insecure=1&sni=hsg.fobbc.xyz#%F0%9F%87%B8%F0%9F%87%AC%40%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1_%F0%9D%97%9E%F0%9D%97%A2%F0%9D%97%97%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%AC
 hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379/?insecure=1&sni=hsg.fobbc.xyz#%F0%9F%87%B8%F0%9F%87%ACx2%40oneclickvpnkeys
+hysteria2://f8d473b9-5724-489e-8841-cf4565203c9e@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
+
+hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
+
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-sgsg.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
+
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0
+
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-jpjp.aikunapp.com:5001?security=tls&insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
