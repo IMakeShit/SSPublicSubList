@@ -1,5 +1,3 @@
-vless://id7449441796@185.40.4.142:443?type=tcp&security=reality&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&fp=random&sni=vk.com&sid=a79e1dd256&flow=xtls-rprx-vision#VlesVPNbot-110(300GB в месяц)
-vless://b6cb75e5-bde5-499e-857a-2e2d479cf84c@2.59.161.126:443?type=tcp&security=reality&pbk=UM0XKnTXdPvsEXd1zLzwOQo8v6ssH5XCDUoxDt0AP0o&fp=chrome&sni=google.com&sid=d0a6e5d68f08b1&spx=%2F&flow=xtls-rprx-vision#CloudFlare RU by @echochel
 vless://FreeVPN_new@95.216.25.51:443?type=tcp&security=reality&pbk=BT05MXbDasUZ90p0-GXNLRJgC72bTJG-WfpktqBk3Wk&fp=chrome&sni=cisco.com&sid=763721621d69a653&spx=%2F&flow=xtls-rprx-vision#FreeVPN_new
 -------------------------------
 vless://e927b27f-e73c-4580-802e-9265fd7c40e8@8.217.246.186:443?security=reality&sni=b.travel-assets.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&encryption=none#%F0%9F%87%AD%F0%9F%87%B0[openproxylist.com]%20vless-HK
