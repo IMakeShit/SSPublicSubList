@@ -1,4 +1,5 @@
 vless://FreeVPN_new@95.216.25.51:443?type=tcp&security=reality&pbk=BT05MXbDasUZ90p0-GXNLRJgC72bTJG-WfpktqBk3Wk&fp=chrome&sni=cisco.com&sid=763721621d69a653&spx=%2F&flow=xtls-rprx-vision#FreeVPN_new
+vless://be882059-40b5-4319-944f-266ffa925c00@2.59.161.126:443?type=tcp&security=reality&pbk=vsZUZG3O6RVJ8fmtYOR5oQVgOq6cQ6UFkfkgxmFXWWg&fp=chrome&sni=google.com&sid=48&spx=%2F#public IMakeShit server(RU)
 -------------------------------
 vless://e927b27f-e73c-4580-802e-9265fd7c40e8@8.217.246.186:443?security=reality&sni=b.travel-assets.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&encryption=none#%F0%9F%87%AD%F0%9F%87%B0[openproxylist.com]%20vless-HK
 vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&sni=ftp.debian.org&fp=random&pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&sid=10f1&type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1[openproxylist.com]%20vless-NL
