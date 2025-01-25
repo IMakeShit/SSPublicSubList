@@ -1,2 +1,0 @@
-vless://0781284d-a777-43f8-b2b3-2a5275af79c2@65.109.184.88:22733?security=&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20@V2ray_Collector
-vless://d96bea2f-00fb-4cd3-b62c-ca423ced73f4@193.151.148.127:2052?security=&type=ws&path=/&encryption=none#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@V2ray_Collector
